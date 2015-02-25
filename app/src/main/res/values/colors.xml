@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="entry_background">#C0C0C0</color>
+    <color name="topic_background">#0C55AF</color>
+    <color name="topic_foreground">#265D0C</color>
+
+    <color name="exam_background">#A0A0A0</color>
+
+    <!-- Command Btn -->
+    <color name="command_btn_style_solid">#A0CFD3</color>
+    <color name="command_btn_style_stroke">#0C5B82</color>
+    <color name="command_btn_pressed_style_solid">#0C5B82</color>
+    <color name="command_btn_pressed_style_stroke">#F9F9F9</color>
+</resources>

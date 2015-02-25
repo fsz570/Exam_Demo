@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/exam_background">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <TextView
+            android:id="@+id/question"
+            style="?android:textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:lineSpacingMultiplier="1.2"
+            android:text="@string/topic_one_q05" />
+
+        <RadioGroup
+            android:id="@+id/answers"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_below="@id/question"
+            android:layout_marginTop="15dp">
+
+            <RadioButton
+                android:id="@+id/ans1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:text="@string/topic_one_q05_ans1"
+                android:layout_marginBottom="10dp"
+                android:onClick="clickAnswer"/>
+
+            <RadioButton
+                android:id="@+id/ans2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/ans1"
+                android:text="@string/topic_one_q05_ans2"
+                android:layout_marginBottom="10dp"
+                android:onClick="clickAnswer"/>
+
+            <RadioButton
+                android:id="@+id/ans3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/ans2"
+                android:text="@string/topic_one_q05_ans3"
+                android:layout_marginBottom="10dp"
+                android:onClick="clickAnswer"/>
+        </RadioGroup>
+
+
+    </RelativeLayout>
+</ScrollView>

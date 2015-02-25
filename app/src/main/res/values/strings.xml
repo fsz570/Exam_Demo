@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Common -->
+    <string name="app_name">賢北『溪』遊記</string>
+    <string name="empty"></string>
+
+    <!-- Topics -->
+    <string name="title_activity_topic">題目</string>
+    <string name="title_activity_topic_one">低年級題目</string>
+    <string name="title_activity_topic_two">中年級題目</string>
+    <string name="title_activity_topic_three">高年級題目</string>
+
+    <!-- Topic 1 -->
+    <string name="topic_one_q01">賢北國小鄰近哪一條溪？</string>
+    <string name="topic_one_q01_ans1">鹽水溪</string>
+    <string name="topic_one_q01_ans2">濁水溪</string>
+    <string name="topic_one_q01_ans3">曾文溪</string>
+
+    <string name="topic_one_q02">鹽水溪畔最容易看到什麼？</string>
+    <string name="topic_one_q02_ans1">菅芒花</string>
+    <string name="topic_one_q02_ans2">帝王蟹</string>
+    <string name="topic_one_q02_ans3">櫻花</string>
+
+    <string name="topic_one_q03">「十月豆，肥到不見頭」這句話事告訴大家豆仔魚最好吃的季節是在哪一個月？</string>
+    <string name="topic_one_q03_ans1">九月</string>
+    <string name="topic_one_q03_ans2">十月</string>
+    <string name="topic_one_q03_ans3">十一月</string>
+
+    <string name="topic_one_q04">下列哪一種鳥不容易在鹽水溪河畔附近可以看到？</string>
+    <string name="topic_one_q04_ans1">夜鷺</string>
+    <string name="topic_one_q04_ans2">貓頭鷹</string>
+    <string name="topic_one_q04_ans3">白鷺鷥</string>
+
+    <string name="topic_one_q05">我們可以利用在鹽水溪畔的哪一種植物來製作童玩？</string>
+    <string name="topic_one_q05_ans1">菅芒花</string>
+    <string name="topic_one_q05_ans2">菊花</string>
+    <string name="topic_one_q05_ans3">玫瑰花</string>
+
+    <string name="topic_one_q06">台語的「花跳」指的是甚麼？</string>
+    <string name="topic_one_q06_ans1">招潮蟹</string>
+    <string name="topic_one_q06_ans2">白鷺鷥</string>
+    <string name="topic_one_q06_ans3">彈塗魚</string>
+
+    <string name="topic_one_q07">以前的人蓋在漁塭旁，讓看顧漁塭的人可以休息的地方？</string>
+    <string name="topic_one_q07_ans1">工寮</string>
+    <string name="topic_one_q07_ans2">豪宅</string>
+    <string name="topic_one_q07_ans3">桶仔寮</string>
+
+    <string name="topic_one_q08">站在賢北國小往鹽水溪出海口看過去，可以看到什麼建築物？</string>
+    <string name="topic_one_q08_ans1">總統府</string>
+    <string name="topic_one_q08_ans2">安平古堡</string>
+    <string name="topic_one_q08_ans3">紅毛城</string>
+
+    <string name="topic_one_q09">下面哪一種植物喜歡生長在溪水與泥地交界的地方，用根部抓住泥土？</string>
+    <string name="topic_one_q09_ans1">海茄冬</string>
+    <string name="topic_one_q09_ans2">苦楝樹</string>
+    <string name="topic_one_q09_ans3">芒果樹</string>
+
+    <string name="topic_one_q10">透過什麼方式可以讓鹽水溪變得更乾淨、更美麗？</string>
+    <string name="topic_one_q10_ans1">散步</string>
+    <string name="topic_one_q10_ans2">淨灘</string>
+    <string name="topic_one_q10_ans3">做運動</string>
+
+    <!-- Topic 2 -->
+    <string name="topic_two_q01">以前鹽水溪之前又叫什麼溪？</string>
+    <string name="topic_two_q01_ans1">二仁溪</string>
+    <string name="topic_two_q01_ans2">新港溪</string>
+    <string name="topic_two_q01_ans3">曾文溪</string>
+
+    <string name="topic_two_q02">鹽水溪在賢北國小的哪個位置？</string>
+    <string name="topic_two_q02_ans1">東側</string>
+    <string name="topic_two_q02_ans2">北側</string>
+    <string name="topic_two_q02_ans3">南側</string>
+
+    <string name="topic_two_q03">鹽水溪最後流入哪裡？</string>
+    <string name="topic_two_q03_ans1">台灣海峽</string>
+    <string name="topic_two_q03_ans2">巴士海峽</string>
+    <string name="topic_two_q03_ans3">太平洋</string>
+
+    <string name="topic_two_q04">鹽水溪從哪裡出海？</string>
+    <string name="topic_two_q04_ans1">安平</string>
+    <string name="topic_two_q04_ans2">七股</string>
+    <string name="topic_two_q04_ans3">茄萣</string>
+
+    <string name="topic_two_q05">澎湖離台南最近的島嶼是？</string>
+    <string name="topic_two_q05_ans1">七美島</string>
+    <string name="topic_two_q05_ans2">西嶼</string>
+    <string name="topic_two_q05_ans3">東吉島</string>
+
+    <string name="topic_two_q06">紅樹科的植物具有特殊的什麼繁殖現象？</string>
+    <string name="topic_two_q06_ans1">胎生苗</string>
+    <string name="topic_two_q06_ans2">卵生苗</string>
+    <string name="topic_two_q06_ans3">共生苗</string>
+
+    <string name="topic_two_q07">台灣主要紅樹林中名聲最響亮，最廣為人知的是哪一種？</string>
+    <string name="topic_two_q07_ans1">水筆仔</string>
+    <string name="topic_two_q07_ans2">五梨跤</string>
+    <string name="topic_two_q07_ans3">海茄苳</string>
+
+    <string name="topic_two_q08">你知道省水標章 右邊三條水帶所代表的意思嗎？</string>
+    <string name="topic_two_q08a">你知道省水標章</string>
+    <string name="topic_two_q08b">右邊三條水帶所代表的意思嗎？</string>
+    <string name="topic_two_q08_ans1">遠水、用水、省水</string>
+    <string name="topic_two_q08_ans2">惜水、該用則用、該省則省</string>
+    <string name="topic_two_q08_ans3">愛水、親水、節水</string>
+
+    <string name="topic_two_q09">鹽水溪近出海口兩岸的哪一種林木，每到春夏便有成千的小白鷺與黃頭鷺在此築巢繁殖，堪稱「鷺鷥林」奇觀？</string>
+    <string name="topic_two_q09_ans1">五梨跤林</string>
+    <string name="topic_two_q09_ans2">海茄苳林</string>
+    <string name="topic_two_q09_ans3">欖李林</string>
+
+    <string name="topic_two_q10">五梨跤的成熟期較長還是水筆仔呢？</string>
+    <string name="topic_two_q10_ans1">水筆仔</string>
+    <string name="topic_two_q10_ans2">五梨跤</string>
+    <string name="topic_two_q10_ans3">一樣長</string>
+	
+    <!-- Topic 3 -->
+    <string name="topic_three_q01">「大江東去，浪淘盡，千古風雲人物。」出自哪首詩？</string>
+    <string name="topic_three_q01_ans1">念如嬌-赤壁懷古</string>
+    <string name="topic_three_q01_ans2">黃鶴樓</string>
+    <string name="topic_three_q01_ans3">春日偶成</string>
+
+    <string name="topic_three_q02">下列哪一種顏色不是賢北國小的校園主要建築色彩？</string>
+    <string name="topic_three_q02_ans1">黃色</string>
+    <string name="topic_three_q02_ans2">綠色</string>
+    <string name="topic_three_q02_ans3">黑色</string>
+
+    <string name="topic_three_q03">紅樹林大都生長在什麼樣的環境？</string>
+    <string name="topic_three_q03_ans1">鹽田邊</string>
+    <string name="topic_three_q03_ans2">海河交界處</string>
+    <string name="topic_three_q03_ans3">沙洲邊</string>
+
+    <string name="topic_three_q04">下列哪一種植物不是四草濕地主要的紅樹林植物？</string>
+    <string name="topic_three_q04_ans1">水筆仔</string>
+    <string name="topic_three_q04_ans2">海茄苳</string>
+    <string name="topic_three_q04_ans3">紅茄苳</string>
+
+    <string name="topic_three_q05">下列哪一種是在四草漁夫利用簡易槓桿原理來將魚蝦撈起的捕魚工具？</string>
+    <string name="topic_three_q05_ans1">手拋網</string>
+    <string name="topic_three_q05_ans2">吊罾</string>
+    <string name="topic_three_q05_ans3">探更寮</string>
+
+    <string name="topic_three_q06">賢北國小一樓辦公室前充滿詩意的走廊稱為？</string>
+    <string name="topic_three_q06_ans1">詩廊</string>
+    <string name="topic_three_q06_ans2">畫廊</string>
+    <string name="topic_three_q06_ans3">文廊</string>
+
+    <string name="topic_three_q07">離賢北國小最近，可以讓大家飽餐一頓的是哪一個市場？</string>
+    <string name="topic_three_q07_ans1">和緯黃昏市場</string>
+    <string name="topic_three_q07_ans2">水仙宮市場</string>
+    <string name="topic_three_q07_ans3">保安宮市場</string>
+
+    <string name="topic_three_q08">在鹽水溪上可看到早期用棉線製成，現在用尼龍線是重量變輕的捕魚工具是？</string>
+    <string name="topic_three_q08_ans1">吊罾</string>
+    <string name="topic_three_q08_ans2">手拋網</string>
+    <string name="topic_three_q08_ans3">定置網</string>
+
+    <string name="topic_three_q09">賢北國小旁的鹽水溪最後匯流進哪一條濕地？</string>
+    <string name="topic_three_q09_ans1">七股濕地</string>
+    <string name="topic_three_q09_ans2">四草濕地</string>
+    <string name="topic_three_q09_ans3">官田濕地</string>
+
+    <string name="topic_three_q10">在四草濕地可以發現下列哪一種螃蟹的蹤跡？</string>
+    <string name="topic_three_q10_ans1">大閘蟹</string>
+    <string name="topic_three_q10_ans2">帝王蟹</string>
+    <string name="topic_three_q10_ans3">招潮蟹</string>
+	
+    <!--- Result -->
+    <string name="result">評量結果</string>
+    <string name="finish">完成</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+</resources>
